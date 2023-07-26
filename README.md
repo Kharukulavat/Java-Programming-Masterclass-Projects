@@ -1,4 +1,4 @@
-# Java-Programming-Masterclass-Projects
+# Java Programming Masterclass Projects (Updated to Java 17)
 
 ## Course Overview
 This repository contains all the code, projects, and additional resources related to the Java Programming Masterclass. The course is carefully structured to provide you with valuable Core Java skills that are fundamental to software development. The content has been updated to include the latest advancements and features introduced in Java 17, ensuring you stay at the cutting edge of Java development.
